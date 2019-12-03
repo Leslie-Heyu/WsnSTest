@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">智慧农业</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="app_exit">退出提示</string>
+    <string name="app_settings">连接设置</string>
+    <string name="ipaddress">IP地址：</string>
+    <string name="port">端口号：</string>
+    <string name="connect_please">请先建立连接!</string>
+    <string name="connect_success">建立连接成功！</string>
+    <string name="connect_failed">建立连接失败！</string>
+
+</resources>
